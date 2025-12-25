@@ -1,4 +1,4 @@
-# Hi there, I'm [Shaunhacker] 👋 
+# Hi there, I'm Shaunhacker 👋 
 ### 🛡️ Aspiring Cybersecurity Analyst | Blue Team Enthusiast | Continuous Learner
 
 I am a detail-oriented Cybersecurity professional transitioning into the industry with a strong foundation in network security, threat detection, and incident response. My focus is on defending digital assets and staying ahead of the evolving threat landscape through hands-on labs and certifications.
