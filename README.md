@@ -60,7 +60,7 @@ Analyzed PCAP files to identify malicious activity such as SQL injection and mal
 ---
 
 ## ⚡ Fun Fact
-When I'm not analyzing logs or hardening servers, you'll find me [insert a hobby, e.g., competing in CTFs, building PCs, or hiking].
+When I'm not analyzing logs or hardening servers, you'll find me gaming, building PCs, or hiking].
 
 ---
 *“The goal is not to be perfect, but to be better than yesterday.”*
