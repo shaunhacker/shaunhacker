@@ -1,14 +1,14 @@
 # Hi there, I'm Shaunhacker 👋 
-### 🛡️ Aspiring Cybersecurity Analyst | Blue Team Enthusiast | Continuous Learner
+### 🛡️ Aspiring Cybersecurity Analyst | Continuous Learner
 
 I am a detail-oriented Cybersecurity professional transitioning into the industry with a strong foundation in network security, threat detection, and incident response. My focus is on defending digital assets and staying ahead of the evolving threat landscape through hands-on labs and certifications.
 
 ---
 
 ## 🚀 Quick Links
-- 💼 [LinkedIn Profile](https://linkedin.com/in/yourusername)
-- 📝 [Personal Blog/Write-ups](https://yourwebsite.com)
-- 📧 [Contact Me](mailto:your@email.com)
+- 💼 www.linkedin.com/in/thando-hlakanyana
+- 📝 Tryhackme: Shaunhacker
+- 📧 Email: hlakanyana2@gmail.com
 - 📄 [Resume](./Resume.pdf)
 
 ---
