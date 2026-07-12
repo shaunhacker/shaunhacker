@@ -48,7 +48,6 @@ Analyzed PCAP files to identify malicious activity such as SQL injection and mal
 ## 📜 Certifications
 - **CompTIA Security+** (In Progress/Earned)
 - **Google Cybersecurity Professional Certificate**
-- **eJPT (Junior Penetration Tester)**
 - **TryHackMe Rank: All 484860/S.A 2,282
 
 ---
